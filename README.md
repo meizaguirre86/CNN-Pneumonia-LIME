@@ -1,5 +1,6 @@
 # CNN-Pneumonia
- Using CNN to detect Pneumonia
+ Using CNN (tensorflow) to detect Pneumonia on children x-rays.
+ I've also used LIME to explain why our model has predicted such result.
   
  Dataset
  Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
